@@ -1,6 +1,6 @@
 ﻿#Import the CSV file
 
-$csvfile = Import-CSV .C:\MSFT-GeGayl\Powershell\Scripts\Contacts.csv
+$csvfile = Import-CSV C:\MSFT-GeGayl\Powershell\Scripts\Contacts.csv
 
 #Loop through CSV file
 
